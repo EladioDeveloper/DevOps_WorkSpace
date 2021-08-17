@@ -13,7 +13,7 @@ steps:
 - task: JenkinsQueueJob@2
   inputs:
     serverEndpoint: 'JenkinsConnection'
-    jobName: 'BHD-Examen'
+    jobName: 'BHD-Examen-Job'
     captureConsole: true
     capturePipeline: true
     isParameterizedJob: false
