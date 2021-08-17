@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: Eladio-BHD-Agent
+  name: Eladio-BHD-Agent
 
 steps:
 - task: JenkinsQueueJob@2
