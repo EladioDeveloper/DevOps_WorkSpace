@@ -14,7 +14,5 @@ steps:
   inputs:
     serverEndpoint: 'JenkinsConnection'
     jobName: 'BHD-Examen'
-    captureConsole: true
-    capturePipeline: true
     isParameterizedJob: false
 
