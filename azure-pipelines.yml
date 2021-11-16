@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Ubuntu-latest
+  vmImage: ubuntu-latest
 
 steps:
 - task: JenkinsQueueJob@2
