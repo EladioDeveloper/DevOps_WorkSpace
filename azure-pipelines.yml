@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Eladio-BHD-Agent
+  name: Ubuntu-latest
 
 steps:
 - task: JenkinsQueueJob@2

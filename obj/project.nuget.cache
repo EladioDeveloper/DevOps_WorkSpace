@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPBmgBGoqspthg6TlfFNAd2t0iVSDuAutVFfDWW+FlZ3KZhOQAaZm/uU9On1lhQw7GtfhxrdaRjhqOIyGyFSeQ==",
+  "dgSpecHash": "QCqmhCK1qbDS8IMaDsALcAN69HXUqmCgermGd/PWi4tESs5w3Q0pKJ8wdhHi1i/0yAtZRrj4JeVKuLdbQ9ZnQQ==",
   "success": true,
-  "projectFilePath": "/Users/ismaeljosueortizmontero/projects/helloworld/helloworld/helloworld.csproj",
-  "expectedPackageFiles": [
-    "/Users/ismaeljosueortizmontero/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/3.1.7/microsoft.netcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
-    "/Users/ismaeljosueortizmontero/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/3.1.7/microsoft.aspnetcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
-    "/Users/ismaeljosueortizmontero/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.7/microsoft.netcore.app.host.linux-x64.3.1.7.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Learning\\Capacitacion_BHD\\Repositorios\\BHD-Examen\\helloworld.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
