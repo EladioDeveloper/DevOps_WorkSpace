@@ -3,7 +3,7 @@ pipeline{
         label 'Agent'
     }
     options {
-        buildDiscarder (logRotaor(numTokeepStr: '5'))
+        buildDiscarder (logRotator(numTokeepStr: '5'))
     }
     stages{
         stage('Scan'){
