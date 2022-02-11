@@ -10,9 +10,16 @@ pool:
   name: Default
 
 steps:
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'env | sort'
+
 - task: JenkinsQueueJob@2
   inputs:
     serverEndpoint: 'JenkinsConnection'
     jobName: 'BHD-Examen'
-    isParameterizedJob: false
-
+    captureConsole: true
+    capturePipeline: true
+    isParameterizedJob: true
+    jobParameters: '<parameterName>=<parameterValue>'
